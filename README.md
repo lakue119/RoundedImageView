@@ -20,6 +20,8 @@ Add Jitpack to your repositories in your build.gradle file
 </code>
 </pre>
 
+Add the below to your dependencies, again in your gradle.build file
+
 <pre>
 <code>
 
