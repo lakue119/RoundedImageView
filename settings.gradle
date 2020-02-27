@@ -1,2 +1,2 @@
-include ':app', ':lakueroundedimageview2'
+include ':app', ':lakueroundedimageview'
 rootProject.name='LakueRoundedImageView'
