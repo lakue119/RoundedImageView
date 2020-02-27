@@ -1,0 +1,2 @@
+include ':app', ':lakueroundedimageview2'
+rootProject.name='LakueRoundedImageView'
